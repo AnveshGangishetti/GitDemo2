@@ -1,4 +1,6 @@
 <customer>
-	<name>Shiva</name>
-	<age>2</age>
+<name>Shiva</name>
+<age>2</age>
+<state>Telangana</state>
+<area>Hyderabad</area>
 </customer>	
